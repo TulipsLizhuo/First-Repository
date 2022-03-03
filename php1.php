@@ -1,3 +1,3 @@
 <php>
-  
-  phplofe();
+  111222
+  phpinfe();
